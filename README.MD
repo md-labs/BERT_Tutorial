@@ -2,7 +2,7 @@
 
 
 There are three folders in the Tutorial:  
-**Code**- Contains the text classification code  
+**src**- Contains the text classification code  
 **Data**- Contains the Train, Dev and Test Data  
 * Input data needs to be TAB delimited and have three columns namely: ID, Text, Label  
 
